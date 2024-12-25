@@ -1,0 +1,70 @@
+encodings in dataset?
+multitask? eye_strain? blurry_vision? redness? dryness? headaches?
+"Never":0,
+"Rarely": 1,
+"Sometimes": 2,
+"Often": 3,
+"Always": 4
+
+gender?
+male : 0
+female : 1
+
+field?
+IT : 1
+Non-IT : 0
+
+frequent_device?
+"Smartphone": 0,
+"Laptop/PC": 1,
+"Tablet": 2,
+"TV/Other":3
+
+screen_time?
+"6 - 8 hours": 7,
+"8+ hours": 9,
+"4 - 6 hours": 5,
+"Less than 2 hours": 2,
+"2 - 4 hours": 3
+
+eye_condition?
+yes: 1
+no: 0
+
+family_history?
+yes: 1
+no: 0
+
+vision_correction?
+"Daily": 2,
+"Occasionally": 1,
+"Never": 0
+
+eye_specialist?
+"Annually": 3,
+"Every 2-3 years": 2,
+"Only when I experience issues": 1,
+"Never": 0
+
+breaks?
+"Every 30 mins or less": 3,
+"Every 1-2 hours": 2,
+"Only when I feel discomfort": 1,
+"Never": 0
+
+concern?
+1 = Not concerned
+2 = Slightly concerned
+3 = Moderately concerned
+4 = Very concerned
+5 = Extremely concerned
+
+habits?
+"Yes": 1,
+"No": 0,
+"I plan to": 2
+
+low_light?
+"Yes": 2,
+"Occasionally": 1,
+"No": 0
